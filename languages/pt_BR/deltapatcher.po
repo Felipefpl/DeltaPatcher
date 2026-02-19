@@ -46,7 +46,7 @@ msgid ""
 "See log for more information."
 msgstr ""
 "Um erro ocorreu!\n"
-"Veja o registro pra maiores informações."
+"Veja o registro pra mais informações."
 
 #: D:\Documenti\CodeLite
 #: Projects\workspace\DeltaPatcher\src/gui/DeltaPatcherDecodePanel.cpp:82
@@ -105,13 +105,13 @@ msgstr "Delta Patcher"
 #: D:\Documenti\CodeLite
 #: Projects\workspace\DeltaPatcher\src/gui/DeltaPatcherMainDialog.cpp:62
 msgid "Show log >>"
-msgstr "Mostrar o registro >>"
+msgstr "Mostrar registro >>"
 
 #: D:\Documenti\CodeLite
 #: Projects\workspace\DeltaPatcher\src/gui/DeltaPatcherMainDialog.cpp:67
 #: Projects\workspace\DeltaPatcher\src/gui/dpgui.cpp:48
 msgid "<< Hide log"
-msgstr "<< Esconder o registro"
+msgstr "<< Esconder registro"
 
 #: D:\Documenti\CodeLite
 #: Projects\workspace\DeltaPatcher\src/gui/DeltaPatcherMainDialog.cpp:127

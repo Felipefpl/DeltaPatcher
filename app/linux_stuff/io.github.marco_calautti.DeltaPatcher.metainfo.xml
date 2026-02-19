@@ -13,10 +13,20 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://camo.githubusercontent.com/1ae80fce5add0b471914e86302cf9cfd2c27475870cc77f0094fe27e2a281860/68747470733a2f2f692e696d6775722e636f6d2f64516d547573782e706e67</image>
+      <image type="source">https://camo.githubusercontent.com/3ef1faf636a1d7761ccdaf659aee6949dede9e29713e07b0954c7f4be411850f/68747470733a2f2f692e696d6775722e636f6d2f71524d335042382e706e67</image>
     </screenshot>
   </screenshots>
   <releases>
+    <release version="3.1.6" date="2025-08-18" type="stable">
+      <url>https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6</url>
+      <description>
+        <ul>
+          <li>Fixed bug with paths containing non-ASCII characters on Linux</li>
+          <li>Updated wxWidgets to official v3.3.1</li>
+          <li>Updated liblzma to stable v5.8.1</li>
+        </ul>
+      </description>
+    </release>
     <release version="3.1.5" date="2024-04-29" type="stable">
       <url>https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.5</url>
       <description>

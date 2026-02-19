@@ -1,11 +1,11 @@
 # Delta Patcher [![Build](https://github.com/marco-calautti/DeltaPatcher/actions/workflows/release.yml/badge.svg)](https://github.com/marco-calautti/DeltaPatcher/actions/workflows/release.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bdfed52f118c4199ad0d828520f29b61)](https://www.codacy.com/gh/marco-calautti/DeltaPatcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marco-calautti/DeltaPatcher&amp;utm_campaign=Badge_Grade) 
 
-![ScreenShot](https://i.imgur.com/dQmTusx.png)
+![ScreenShot](https://i.imgur.com/qRM3PB8.png)
 
 <p align='center'>
 <a href='https://github.com/marco-calautti/DeltaPatcher/releases'><img height='40' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/></a>
 <a href='https://github.com/marco-calautti/DeltaPatcher/releases'><img height='40' src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0'/></a>
-<a href='https://flathub.org/it/apps/io.github.marco_calautti.DeltaPatcher'><img height='40' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
+<a href='https://flathub.org/apps/io.github.marco_calautti.DeltaPatcher'><img height='40' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
 </p>
 
 Delta Patcher is a GUI software that is able to create and apply xdelta patches as the ones supported by the xdelta tool developed by Joshua McDonald. 
